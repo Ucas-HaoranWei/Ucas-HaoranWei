@@ -1,5 +1,4 @@
 ### Hi there 👋
-2024/2-3-12-20
 <!--
 **Ucas-HaoranWei/Ucas-HaoranWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
