@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **Ucas-HaoranWei/Ucas-HaoranWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +17,8 @@ Here are some ideas to get you started:
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ucas-HaoranWei&title=Stars,Followers,Commits&theme=dracula)
+
+
 
 
 
