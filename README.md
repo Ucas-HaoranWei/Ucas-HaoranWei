@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ⚡ **Trending #1 on Huggingface**  <a href="">GOT-OCR2.0</a>  
 
-![1d66442bef7a5c84fce9286d8e3f30b](https://github.com/user-attachments/assets/17f7f5d0-46f5-472f-9b1f-a2fce9f6c85a)
+
+![a36427852938a8c7686ad3a7412270d](https://github.com/user-attachments/assets/a725553c-5a0c-4f87-9695-1912e52bbce9)
+
 
 
 
