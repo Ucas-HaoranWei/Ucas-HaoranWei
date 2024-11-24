@@ -13,6 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Ucas-HaoranWei&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Ucas-HaoranWei&theme=cobalt&hide=prs&show=reviews&hide_rank=True)
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ucas-HaoranWei&title=Stars,Followers,Commits&theme=dracula)
+
+
+
+
+
+
 
 
