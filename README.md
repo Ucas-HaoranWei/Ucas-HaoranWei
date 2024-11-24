@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Achievement
 
 ![](https://github-readme-stats.vercel.app/api?username=Ucas-HaoranWei&theme=cobalt&hide=prs&show=reviews&hide_rank=True)
 
