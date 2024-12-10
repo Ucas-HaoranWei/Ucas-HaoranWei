@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-⚡ **Trending #1 on Huggingface and exceed 1M download**  <a href="">GOT-OCR2.0</a>  
+⚡ **Trending #1 on Huggingface and exceed 1M download**  [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)  
 
 
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-⚡ **Trending #4/6 on Github** <a href="">Vary/Vary-toy</a>      
+⚡ **Trending #4/6 on Github** [Vary/Vary-toy](https://github.com/Ucas-HaoranWei/Vary) 
   
 <a href="https://trendshift.io/repositories/7311" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7311" alt="Ucas-HaoranWei%2FVary-toy | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>  <a href="https://trendshift.io/repositories/5978" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5978" alt="Ucas-HaoranWei%2FVary | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
