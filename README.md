@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ucas-HaoranWei&title=Stars,Followers,Commits&theme=dracula)
 
-⚡ **Trending #1 on Huggingface** [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
+⚡ **Trending #1 on Huggingface and exceed 1M download** [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 
-<img width="500" height="200" alt="20251022-111535" src="https://github.com/user-attachments/assets/cc5e916b-ec8d-4461-b6ce-ce925bccc8b5" />
+<img width="330" height="120" alt="20251028-165130" src="https://github.com/user-attachments/assets/a86ba8e2-722e-4ad3-9fab-f45144b8245d" />
+
 
 
 
