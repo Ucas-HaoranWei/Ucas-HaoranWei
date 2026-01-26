@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 
 ⚡ **Trending #1 on Huggingface and exceed 1M download**  [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)  
 
+<img width="500" height="100" alt="20251028-165130" src="https://github.com/user-attachments/assets/99ed5468-2d64-4924-bc2f-4d438f8c979c" />
 
 
-
-![123456](https://github.com/user-attachments/assets/99ed5468-2d64-4924-bc2f-4d438f8c979c)
 
 
 
