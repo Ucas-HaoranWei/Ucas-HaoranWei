@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Ucas-HaoranWei&theme=cobalt&hide=prs&hide_rank=True)
 
 
+⚡ **Trending on Huggingface and exceed 1M download** [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
+
+<img width="330" height="120" alt="2026-02-14 17 04 09" src="https://github.com/user-attachments/assets/e5dbbc21-410f-4d6c-b4d2-ce68a1daf96a" />
+
+
+
 
 ⚡ **Trending #1 on Huggingface and exceed 1M download** [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)
 
