@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ⚡ **Trending on Huggingface and exceed 1M download** [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
 
-<img width="330" height="120" alt="2026-02-14 17 04 09" src="https://github.com/user-attachments/assets/e5dbbc21-410f-4d6c-b4d2-ce68a1daf96a" />
+<img width="330" height="60" alt="2026-02-14 17 04 09" src="https://github.com/user-attachments/assets/e5dbbc21-410f-4d6c-b4d2-ce68a1daf96a" />
 
 
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ⚡ **Trending #4/6 on Github** [Vary/Vary-toy](https://github.com/Ucas-HaoranWei/Vary) 
   
-<a href="https://trendshift.io/repositories/7311" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7311" alt="Ucas-HaoranWei%2FVary-toy | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>  <a href="https://trendshift.io/repositories/5978" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5978" alt="Ucas-HaoranWei%2FVary | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/7311" target="_blank"><img src="https://trendshift.io/api/badge/repositories/7311" alt="Ucas-HaoranWei%2FVary-toy | Trendshift" style="width: 200px; height: 55px;" width="250" height="55"/></a>  <a href="https://trendshift.io/repositories/5978" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5978" alt="Ucas-HaoranWei%2FVary | Trendshift" style="width: 200px; height: 55px;" width="250" height="55"/></a>
 
 
 
